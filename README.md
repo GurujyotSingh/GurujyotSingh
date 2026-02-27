@@ -10,13 +10,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurujyotSingh&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GurujyotSingh&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurujyotSingh&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</div>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurujyotSingh&theme=slateorange&hide_border=true&border_radius=20" alt="GitHub Streak" width="50%" />
+     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=slateorange&fontFamily=Poppins&preferLogin=false&Points.Commits=1.1&Background=020F81&borderRadius=20">    <img  alt="GurujyotSingh's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/GurujyotSingh?cardType=github&theme=slateorange&fontFamily=Poppins&preferLogin=false&Points.Commits=1.1&Background=020F81&borderRadius=20" />  </a>
 <br/>
+</div>
 
 ### 🌟 About Me
 
@@ -31,7 +28,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,java,python,nodejs,php,git,linux,figma,xd,bootstrap,fastapi,postgres,mysql,pandas,numpy,matplotlib,photoshop,canva" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,java,python,nodejs,php,git,linux,figma,xd,bootstrap" />
 </p>
 
 **Core Skills**  
