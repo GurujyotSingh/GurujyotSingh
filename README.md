@@ -1,100 +1,91 @@
 <!-- Gurujyot Singh Kalsi's GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Gurujyot Singh Kalsi</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=2000&color=ff9900&center=true&vCenter=true&width=1000&lines=Hey%20there!+I%27m+Gurujyot+Singh+Kalsi;Full-Stack+%26+Data+Enthusiast;Java+%7C+React.js+%7C+Python+Analytics;Building+Apps+with+Social+Impact" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <a href="https://github.com/gurujyot-singh"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+%26+Data+Enthusiast;Java+%7C+React.js+%7C+Python+for+Analytics;Building+Web+Apps+%26+Social+Impact+Solutions" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <em>Enthusiastic fresher passionate about Data Science, Full-Stack Development, and creative multimedia. Turning data into insights and code into real-world solutions with social impact. 🚀</em>
+  <em>Crafting full-stack solutions, turning data into insights, and creating engaging visual content with purpose.</em><br/>
+  <strong>React.js • Java • Python • Data Science • UI/UX • Video Editing • Social Good</strong>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurujyot-singh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurujyotSingh&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GurujyotSingh&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gurujyot-singh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurujyot-singh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurujyotSingh&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </div>
 
----
+<br/>
 
-### 🚀 About Me
-- 🎓 Pursuing **M.Sc. IT** (Full Stack, Data Science & AI) at SKIPS University, Ahmedabad  
-- 🎓 B.Sc. IT (Cloud & Application Development) from Gujarat University (CGPA: 9.31/10, First Class with Distinction, 2025)  
-- 🌱 Currently building full-stack HRMS with **React.js** frontend + **FastAPI** backend  
-- 💻 Focused on: Data analysis (Python/Pandas), robust backends (Java/PHP), interactive UIs (React.js), and social impact apps  
-- 🎨 Creative side: Video editing (reels/shorts), thumbnails, posters, certificates, videography  
-- 🤝 Open to collaborations on web apps, data projects, NGO/tech-for-good ideas, or content creation  
-- ⚡ Fun fact: I blend code with design to create engaging, meaningful solutions!
+### 🌟 About Me
+
+- 🎓 **M.Sc. IT** (Full Stack, Data Science & AI) – SKIPS University (2025–2027)  
+- 🎓 **B.Sc. IT** (Cloud & Application Development) – Gujarat University (CGPA 9.31/10, Distinction 2025)  
+- 🚀 Currently building **HRMS** (React.js frontend + FastAPI backend)  
+- 💡 Passionate about: data-driven apps, interactive dashboards, social impact tech, and creative multimedia  
+- 🎨 Side hustle: Video editing (reels/shorts), thumbnails, posters, videography  
+- 🤝 Always open to collab on web projects, data tools, or meaningful ideas  
+- ⚡ Fun fact: I code by day, create reels by night, and believe in building with empathy & optimism
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,java,python,nodejs,php,git,linux,figma,xd,bootstrap" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,mysql,postgresql,fastapi,netlify,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,java,python,nodejs,php,git,linux,figma,xd,bootstrap,fastapi,postgres,mysql,pandas,numpy,matplotlib,photoshop,canva" />
 </p>
 
-**Data Science & Analytics**  
-- Python, NumPy, Pandas, Matplotlib  
-- Basic Statistical Analysis  
-
-**Frontend**  
-- React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap  
-
-**Backend**  
-- Java (OOP), Python (FastAPI), Node.js, PHP, Basic .NET  
-
-**Databases**  
-- SQL (PostgreSQL/MySQL), NoSQL (MongoDB basics)  
-
-**Tools & Practices**  
-- Git/GitHub, Linux, SDLC, Figma, Adobe XD  
-- Low-Code: Glide, Zoho Creator  
-- MS Office  
-
-**Multimedia & Creative**  
-- Video Editing (Reels/Shorts), YouTube Thumbnails  
-- Videography & Photography  
-- Poster/Banner/Certificate Design  
-- Tools: Photoshop, Canva, CapCut/Premiere Pro  
+**Core Skills**  
+- **Frontend**: React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap  
+- **Backend**: Java (OOP), Python (FastAPI), PHP, Node.js, Basic .NET  
+- **Data Science**: Python, NumPy, Pandas, Matplotlib, Basic Stats  
+- **Databases**: SQL (PostgreSQL, MySQL), NoSQL (MongoDB basics)  
+- **Tools**: Git/GitHub, Linux, Figma, Adobe XD, SDLC  
+- **Creative**: Photoshop, Canva, CapCut/Premiere Pro, Video Editing, Thumbnails, Posters  
 
 **Soft Skills**  
-- Problem-Solving, Communication, Team Collaboration  
-- Attention to Detail, Time Management  
-- Empathy, Positive Attitude, Faith & Optimism  
+Problem-Solving • Clear Communication • Team Collaboration • Attention to Detail • Time Management • Empathy • Positive Attitude • Faith & Optimism
 
-### 🌟 Key Projects
+### 🔥 Key Projects
 
-- **HRMS System** (Ongoing M.Sc. Project – SKIPS University)  
-  Full-stack HR app: React.js frontend (dashboards, profiles, forms), FastAPI backend, PostgreSQL integration, secure REST APIs.  
+- **HRMS System** (Ongoing M.Sc. Project)  
+  Full-stack HR app → React.js dashboards, FastAPI backend, PostgreSQL, secure REST APIs, real-time updates  
 
-- **Anand Sewa** (NGO Management & Volunteer Coordination – Ongoing)  
-  Full-stack platform for handicapped assistance: PHP/MySQL backend, Bootstrap frontend, PayU payment gateway (test mode), video upload forms, role-based admin panel, real-time tracking. Social impact focus.  
+- **Anand Sewa** (NGO Volunteer & Donation Platform – Ongoing)  
+  Social impact app → PHP/MySQL backend, Bootstrap frontend, PayU payment gateway (test mode), video uploads, role-based admin panel  
 
 - **Gurunanak Relocation Website** (Client Project)  
-  Responsive website built with HTML/CSS/JavaScript. Clean UI, easy navigation for relocation services.  
-  🔗 https://gnrelocation.in  
+  Responsive business site → HTML, CSS, JavaScript  
+  🔗 [Live Demo → gnrelocation.in](https://gnrelocation.in)
 
-### 🏆 Achievements & Activities
-- Recognized in **WSCC Young Sikh Achievers 2025** by World Sikh Chamber of Commerce  
-- **3rd Position** – Internal Hackathon for Smart India Hackathon 2025 (Alpha Club, SKIPS University)  
-- Participated in **Smart India Hackathon 2025** – "Ayursutra Panchkarma" (Panchakarma patient management software)  
-- Participated in **DA-IICT Hackathon** (2025 edition)  
-- Created promotional videos/reels for **Future Space Interior** (interior design firm)  
-- Produced marketing content (shorts, thumbnails) for **DM Marketing** agency  
+### 🏆 Highlights & Achievements
 
-### 📫 Let's Connect
+- **WSCC Young Sikh Achievers 2025** – Recognized by World Sikh Chamber of Commerce  
+- **3rd Place** – Internal Hackathon for Smart India Hackathon 2025 (Alpha Club, SKIPS University)  
+- **Participant** – Smart India Hackathon 2025 ("Ayursutra Panchkarma" – Panchakarma therapy management)  
+- **Participant** – DA-IICT Hackathon 2025  
+- Created videos/reels for **Future Space Interior** & **DM Marketing** agency  
+
+### 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:gurujyot.mscit25@skipsuniversity.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/gurujyot-singh-kalsi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/gurujyot-singh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:gurujyot.mscit25@skipsuniversity.edu.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/GurujyotSingh-kalsi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/GurujyotSingh">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gurujyot-singh&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=GurujyotSingh&label=Profile+Views&color=00FF9D&style=flat-square" alt="Profile views" />
 </p>
 
-Thanks for stopping by! Let's build something meaningful together. 🙏✨
+<div align="center">
+  <img src="https://img.shields.io/badge/Lets%20build%20something%20awesome!-000000?style=for-the-badge&logo=appveyor&logoColor=00FF9D" alt="Let's build" />
+</div>
+
+Thanks for visiting! 🙏✨  
+Feel free to fork, star, or drop a message — always up for good conversations & cool projects.
